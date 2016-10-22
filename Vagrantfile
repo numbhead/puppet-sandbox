@@ -2,7 +2,7 @@
 # vi: set ft=ruby :
 
 domain = 'numbskull.com'
-box = 'puppetlabs/centos-7.0-64-puppet'
+box = 'centos/7'
 ram = 512
 
 puppet_nodes = [

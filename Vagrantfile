@@ -1,8 +1,8 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
 
-domain = 'example.com'
-box = 'ubuntu/trusty64'
+domain = 'numbskull.com'
+box = 'puppetlabs/centos-7.0-64-puppet'
 ram = 512
 
 puppet_nodes = [

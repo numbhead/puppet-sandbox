@@ -1,7 +1,7 @@
 Description
 ===========
 
-Puppet Sandbox is a multi-VM [Vagrant](http://vagrantup.com/)-based Puppet
+'Puppet-Sandbox' is a multi-VM [Vagrant](http://vagrantup.com/)-based Puppet
 development environment used for creating and testing new modules outside
 of your production environment. It is prefered over the upstream [Learning
 Puppet VM](http://info.puppetlabs.com/download-learning-puppet-VM.html) as
@@ -122,4 +122,4 @@ License
 Puppet Sandbox is provided under the terms of [The MIT
 License](http://www.opensource.org/licenses/MIT).
 
-Copyright &copy; 2012, [Aaron Bull Schaefer](mailto:aaron@elasticdog.com).
+Copyright &copy; 2012, [Aaron Bull Schaefer](mailto:aaron@elasticdog.com)
